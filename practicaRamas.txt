@@ -1,2 +1,3 @@
 hola estoy estudiando para ramas
 ahora estoy en una rama2
+para crear la rama 3 no tengo que salirme de la rama 2
